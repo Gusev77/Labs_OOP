@@ -1,0 +1,25 @@
+﻿  first.cpp
+C:\Users\serga\Desktop\Study\2 kurs\laba\Laba4\Laba4\first.cpp(36,9): warning C4129:: 
+C:\Users\serga\Desktop\Study\2 kurs\laba\Laba4\Laba4\first.cpp(37,19): warning C4129:: 
+C:\Users\serga\Desktop\Study\2 kurs\laba\Laba4\Laba4\first.cpp(65,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : см. объявление "scanf"
+C:\Users\serga\Desktop\Study\2 kurs\laba\Laba4\Laba4\first.cpp(73,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : см. объявление "scanf"
+C:\Users\serga\Desktop\Study\2 kurs\laba\Laba4\Laba4\first.cpp(81,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : см. объявление "strcpy"
+C:\Users\serga\Desktop\Study\2 kurs\laba\Laba4\Laba4\first.cpp(120,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : см. объявление "strcpy"
+C:\Users\serga\Desktop\Study\2 kurs\laba\Laba4\Laba4\first.cpp(121,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : см. объявление "strcat"
+C:\Users\serga\Desktop\Study\2 kurs\laba\Laba4\Laba4\first.cpp(122,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : см. объявление "strcat"
+C:\Users\serga\Desktop\Study\2 kurs\laba\Laba4\Laba4\first.cpp(123,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : см. объявление "strcat"
+C:\Users\serga\Desktop\Study\2 kurs\laba\Laba4\Laba4\first.cpp(124,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : см. объявление "strcat"
+C:\Users\serga\Desktop\Study\2 kurs\laba\Laba4\Laba4\first.cpp(127,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : см. объявление "strcpy"
+  second.cpp
+  Создание кода...
+C:\Users\serga\Desktop\Study\2 kurs\laba\Laba4\Laba4\first.cpp(156,6): warning C4101: n: неиспользованная локальная переменная
+  Laba4.vcxproj -> C:\Users\serga\Desktop\Study\2 kurs\laba\Laba4\Debug\Laba4.exe

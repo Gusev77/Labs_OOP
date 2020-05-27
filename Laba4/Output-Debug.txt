@@ -1,0 +1,11 @@
+﻿'Laba4.exe': Loaded 'F:\laba\Laba4\Debug\Laba4.exe', Symbols loaded.
+'Laba4.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'Laba4.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'Laba4.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'Laba4.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+'Laba4.exe': Loaded 'C:\Windows\SysWOW64\apphelp.dll', Cannot find or open the PDB file
+'Laba4.exe': Loaded 'ImageAtBase0x4a150000', Loading disabled by Include/Exclude setting.
+'Laba4.exe': Unloaded 'ImageAtBase0x4a150000'
+'Laba4.exe': Loaded 'ImageAtBase0x4aa90000', Loading disabled by Include/Exclude setting.
+'Laba4.exe': Unloaded 'ImageAtBase0x4aa90000'
+The program '[4516] Laba4.exe: Native' has exited with code 0 (0x0).
